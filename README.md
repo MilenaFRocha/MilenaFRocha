@@ -15,6 +15,10 @@
   - ATM (caixa eletrônico)
     - **Repositório:** [atm](https://github.com/BeyondMagic/atm)
     - **Descrição:** Desenvolvido em pyhton e o json como banco de dados
+  - SENTINELA ( site do Sindicato Polícia Penal )
+    - **Repositório:** [SENTINELA](https://github.com/orgs/fga-eps-mds/teams/2024-2-sentinela/repositories)
+    - **Descrição:** Desenvolvido para funcionários e filiados para uma melhor gestão do sindicato . Feito com  MongoDB, React, JavaScript, Node.js e Express 
+   
 
 
 
